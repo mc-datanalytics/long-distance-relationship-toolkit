@@ -1,12 +1,12 @@
 # Long-Distance Relationship (LDR) Toolkit & Digital Surprises
 
-[![Live LDR Experience](https://img.shields.io/badge/LDR%20Surprise%20Portal-Heartreveals.com-ff758f?style=for-the-badge&logo=heart&logoColor=white)](https://heartreveals.com/en/long-distance-relationship-love-note)
+[![Live LDR Experience](https://img.shields.io/badge/LDR%20Surprise%20Portal-Heartreveals.com-ff758f?style=for-the-badge&logo=heart&logoColor=white)](https://heartreveals.com/en/long-distance-relationship-gift)
 [![Global Home](https://img.shields.io/badge/Official%20Site-Heartreveals-purple?style=for-the-badge)](https://heartreveals.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 A curated collection of resources, virtual surprise ideas, and interactive countdown experiences designed for **long-distance relationships (LDR)**.
 
-Powered by **[Heartreveals (Long-Distance Love Note Platform)](https://heartreveals.com/en/long-distance-relationship-love-note)**.
+Powered by **[Heartreveals (Long-Distance Love Note Platform)](https://heartreveals.com/en/long-distance-relationship-gift)**.
 
 ---
 
@@ -22,15 +22,15 @@ Being in a long-distance relationship means navigating different schedules, cont
 4. **Romantic Couple Trivia**: Playful quizzes about memories only the two of you share.
 5. **Atmospheric Soundtrack**: Soft background music accompanying your handwritten letter.
 
-👉 **[Create a Long-Distance Surprise Page on Heartreveals](https://heartreveals.com/create.html)**
+👉 **[Create a Long-Distance Surprise Page on Heartreveals](https://heartreveals.com/create)**
 
 ---
 
 ## 📍 Popular Long-Distance Corridors & Occasions
 
-- [Long Distance Anniversary Surprises](https://heartreveals.com/en/anniversary-surprise-page-for-couples)
-- [Romantic Birthday Countdown for Couples](https://heartreveals.com/en/romantic-birthday-surprise-website)
-- [Valentine's Day Virtual Gifts](https://heartreveals.com/en/valentines-day-digital-love-letter)
+- [Long Distance Anniversary Surprises](https://heartreveals.com/en/couple-anniversary-surprise)
+- [Romantic Birthday Countdown for Couples](https://heartreveals.com/en/birthday-surprise-page)
+- [Valentine's Day Virtual Gifts](https://heartreveals.com/en/valentines-day-surprise)
 - [French Long Distance Love Notes](https://heartreveals.com/fr)
 
 ---
